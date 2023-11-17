@@ -1,0 +1,47 @@
+Sushi
+Cheese
+Sandwich
+Hamburger
+Bell pepper
+Broccoli
+Salad
+Carrot
+Cabbage
+Zucchini
+Pumpkin
+Garden Asparagus
+Tomato
+Radish
+Cucumber
+Crab
+Shrimp
+Lobster
+Squid
+Pizza
+Pasta
+Mushroom
+Tart
+Croissant
+Doughnut
+Bread
+Cookie
+Muffin
+Egg (Food)
+Watermelon
+Pomegranate
+Pineapple
+Mango
+Apple
+Grape
+Pear
+Banana
+Hot dog
+French fries
+Waffle
+Popcorn
+Ice cream
+Candy
+Cake
+Strawberry
+Orange
+Lemon
